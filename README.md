@@ -4,7 +4,7 @@ como cambiar el site home
 
 para configurarlo tiene que ir administración de sitio y buscar site home y hay podeis cambiar el nombre y la descripción 
 
-![configuración](Captura desde 2025-03-12 13-32-08.png)
+![configuración](1.png)
 
 esta es mi lista de alumno y clases
 
