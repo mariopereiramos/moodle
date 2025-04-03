@@ -10,21 +10,20 @@ esta es mi lista de alumno y clases
 
 yo tengo 10 alumnos y dos clase una llamada ofimática y otra equipo de football va todos a la misma clase en ofimatica tiene una actividad puesta
 
-<img src="imagen/Captura desde 2025-04-02 12-48-01">
+![configuración](2.png)
 
-<img src="imagen/Captura desde 2025-03-19 12-40-11">
+![configuración](3.png)
 
 
 matricular a un alumno y lista de alumno
 
 aqui es donde matriculo a los alumnos y asi tiene su moodle y su clase y tambien que vean la lista de compañeros
 
-<img src="imagen/Captura desde 2025-03-19 12-39-54">
+![configuración](5.png)
 
-<img src="imagen/Captura desde 2025-03-19 12-06-53">
+![configuración](6.png)
 
-<img src="imagen/Captura desde 2025-03-19 12-07-04">
-
+![configuración](4.png)
 
 aparecía de mi moodle
 
@@ -32,12 +31,12 @@ aqui explicare lo que puse en mi moddle
 
 una vez que entren a moodle le va salir un logo en iniciar sesión y así no esta tan aburrido y tambien puse un calendario 
 
-<img src="imagen/Captura desde 2025-03-26 12-42-56">
+![configuración](7.png)
 
-<img src="imagen/Captura desde 2025-04-02 09-28-36">
+![configuración](8.png)
 
-<img src="imagen/Captura desde 2025-04-02 09-29-42">
+![configuración](9.png)
 
 esto fueron los comandos que use para crear moodle
 
-<img src="imagen/Captura desde 2025-03-12 12-34-50">
+![configuración](10.png)
