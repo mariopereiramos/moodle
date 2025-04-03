@@ -23,6 +23,10 @@ aqui es donde matriculo a los alumnos y asi tiene su moodle y su clase y tambien
 
 ![configuración](6.png)
 
+![configuración](12.png)
+
+![configuración](11.png)
+
 ![configuración](4.png)
 
 aparecía de mi moodle
